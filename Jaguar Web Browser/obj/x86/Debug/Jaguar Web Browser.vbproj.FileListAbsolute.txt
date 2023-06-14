@@ -1,0 +1,601 @@
+C:\Users\Admin\Desktop\Jaguar Web Browser\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe
+C:\Users\Admin\Desktop\Jaguar Web Browser\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.pdb
+C:\Users\Admin\Desktop\Jaguar Web Browser\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.MainForm.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Jaguar Web Browser\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.exe
+C:\Users\Admin\Desktop\Jaguar Web Browser\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.pdb
+C:\Users\Admin\Desktop\Jaguar Web Browser\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Jaguar Web Browser\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SideMenu.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.exe
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.pdb
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.pdb
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SideMenu.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.MainForm.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SearchWord.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe.config
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.JWDTStartScreen.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.JWDT.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.3\Jaguar Web Browser\bin\Debug\FastColoredTextBox.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.CodeEditor.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoWindowForm.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoSideMenu.resources
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe.config
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.exe
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.xml
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.pdb
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.pdb
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.xml
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbprojResolveAssemblyReference.cache
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SearchWord.resources
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoSideMenu.resources
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SideMenu.resources
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.CodeEditor.resources
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.JWDT.resources
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.JWDTStartScreen.resources
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoWindowForm.resources
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.MainForm.resources
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.2\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe.config
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.2\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.exe
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.2\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.2\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.pdb
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.2\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.2\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.pdb
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.2\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.2\Jaguar Web Browser\bin\Debug\FastColoredTextBox.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.2\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.2\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SearchWord.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.2\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoSideMenu.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.2\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SideMenu.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.2\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.CodeEditor.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.2\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.JWDT.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.2\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.JWDTStartScreen.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.2\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoWindowForm.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.2\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.MainForm.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.2\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.2\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.3 EORenderEngine\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe.config
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.3 EORenderEngine\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.exe
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.3 EORenderEngine\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.3 EORenderEngine\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.pdb
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.3 EORenderEngine\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.3 EORenderEngine\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.pdb
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.3 EORenderEngine\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.3 EORenderEngine\Jaguar Web Browser\bin\Debug\EO.Base.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.3 EORenderEngine\Jaguar Web Browser\bin\Debug\EO.WebBrowser.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.3 EORenderEngine\Jaguar Web Browser\bin\Debug\EO.WebEngine.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.3 EORenderEngine\Jaguar Web Browser\bin\Debug\FastColoredTextBox.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.3 EORenderEngine\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.3 EORenderEngine\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SearchWord.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.3 EORenderEngine\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoSideMenu.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.3 EORenderEngine\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SideMenu.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.3 EORenderEngine\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.CodeEditor.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.3 EORenderEngine\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.JWDT.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.3 EORenderEngine\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.JWDTStartScreen.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.3 EORenderEngine\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoWindowForm.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.3 EORenderEngine\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.MainForm.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.3 EORenderEngine\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.3 EORenderEngine\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.3 EORenderEngine\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.BookmarksDialog.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.4\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe.config
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.4\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.4\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.pdb
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.4\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.4\Jaguar Web Browser\bin\Debug\EO.Base.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.4\Jaguar Web Browser\bin\Debug\EO.WebBrowser.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.4\Jaguar Web Browser\bin\Debug\EO.WebEngine.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.4\Jaguar Web Browser\bin\Debug\FastColoredTextBox.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.4\Jaguar Web Browser\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.4\Jaguar Web Browser\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.4\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.4\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SearchWord.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.4\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoSideMenu.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.4\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SideMenu.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.4\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.CodeEditor.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.4\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoWindowForm.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.4\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.MainForm.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.4\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.4\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.4\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.exe
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.4\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.4\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.pdb
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.4.4\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.NewFileDialog.resources
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.5\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe.config
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.5\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.5\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.pdb
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.5\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.xml
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.5\Jaguar Web Browser\bin\Debug\EO.Base.dll
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.5\Jaguar Web Browser\bin\Debug\EO.WebBrowser.dll
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.5\Jaguar Web Browser\bin\Debug\EO.WebEngine.dll
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.5\Jaguar Web Browser\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.5\Jaguar Web Browser\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.5\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbprojResolveAssemblyReference.cache
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.5\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SearchWord.resources
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.5\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoSideMenu.resources
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.5\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SideMenu.resources
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.5\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.CodeEditor.resources
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.5\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.NewFileDialog.resources
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.5\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoWindowForm.resources
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.5\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.MainForm.resources
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.5\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.5\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbproj.GenerateResource.Cache
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.5\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.exe
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.5\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.xml
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.5\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.pdb
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe.config
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6\Jaguar Web Browser\bin\Debug\EO.Base.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6\Jaguar Web Browser\bin\Debug\EO.WebBrowser.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6\Jaguar Web Browser\bin\Debug\EO.WebEngine.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6\Jaguar Web Browser\bin\Debug\FastColoredTextBox.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6\Jaguar Web Browser\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6\Jaguar Web Browser\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SearchWord.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoSideMenu.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SideMenu.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.CodeEditor.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.NewFileDialog.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoWindowForm.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.MainForm.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.exe
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.pdb
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.pdb
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.2\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe.config
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.2\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.2\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.pdb
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.2\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.2\Jaguar Web Browser\bin\Debug\EO.Base.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.2\Jaguar Web Browser\bin\Debug\EO.WebBrowser.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.2\Jaguar Web Browser\bin\Debug\EO.WebEngine.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.2\Jaguar Web Browser\bin\Debug\FastColoredTextBox.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.2\Jaguar Web Browser\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.2\Jaguar Web Browser\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.2\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SearchWord.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.2\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoSideMenu.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.2\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SideMenu.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.2\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.CodeEditor.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.2\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.NewFileDialog.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.2\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoWindowForm.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.2\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.MainForm.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.2\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.2\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.2\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.exe
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.2\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.2\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.pdb
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.2\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe.config
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.pdb
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\bin\Debug\EO.Base.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\bin\Debug\EO.WebBrowser.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\bin\Debug\EO.WebEngine.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\bin\Debug\FastColoredTextBox.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SearchWord.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoSideMenu.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SideMenu.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.CodeEditor.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.NewFileDialog.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.MainForm.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.exe
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.pdb
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoForm.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe.manifest
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.application
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.exe.manifest
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.application
+C:\Users\Admin\Desktop\Project No 128 - Jaguar Web Browser\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe.config
+C:\Users\Admin\Desktop\Project No 128 - Jaguar Web Browser\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe.manifest
+C:\Users\Admin\Desktop\Project No 128 - Jaguar Web Browser\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.application
+C:\Users\Admin\Desktop\Project No 128 - Jaguar Web Browser\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe
+C:\Users\Admin\Desktop\Project No 128 - Jaguar Web Browser\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.pdb
+C:\Users\Admin\Desktop\Project No 128 - Jaguar Web Browser\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.xml
+C:\Users\Admin\Desktop\Project No 128 - Jaguar Web Browser\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\bin\Debug\EO.Base.dll
+C:\Users\Admin\Desktop\Project No 128 - Jaguar Web Browser\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\bin\Debug\EO.WebBrowser.dll
+C:\Users\Admin\Desktop\Project No 128 - Jaguar Web Browser\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\bin\Debug\EO.WebEngine.dll
+C:\Users\Admin\Desktop\Project No 128 - Jaguar Web Browser\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\bin\Debug\FastColoredTextBox.dll
+C:\Users\Admin\Desktop\Project No 128 - Jaguar Web Browser\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Admin\Desktop\Project No 128 - Jaguar Web Browser\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Admin\Desktop\Project No 128 - Jaguar Web Browser\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Project No 128 - Jaguar Web Browser\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SearchWord.resources
+C:\Users\Admin\Desktop\Project No 128 - Jaguar Web Browser\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoSideMenu.resources
+C:\Users\Admin\Desktop\Project No 128 - Jaguar Web Browser\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SideMenu.resources
+C:\Users\Admin\Desktop\Project No 128 - Jaguar Web Browser\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.CodeEditor.resources
+C:\Users\Admin\Desktop\Project No 128 - Jaguar Web Browser\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.NewFileDialog.resources
+C:\Users\Admin\Desktop\Project No 128 - Jaguar Web Browser\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoForm.resources
+C:\Users\Admin\Desktop\Project No 128 - Jaguar Web Browser\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.MainForm.resources
+C:\Users\Admin\Desktop\Project No 128 - Jaguar Web Browser\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Admin\Desktop\Project No 128 - Jaguar Web Browser\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Project No 128 - Jaguar Web Browser\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.exe.manifest
+C:\Users\Admin\Desktop\Project No 128 - Jaguar Web Browser\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.application
+C:\Users\Admin\Desktop\Project No 128 - Jaguar Web Browser\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.exe
+C:\Users\Admin\Desktop\Project No 128 - Jaguar Web Browser\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.xml
+C:\Users\Admin\Desktop\Project No 128 - Jaguar Web Browser\Jaguar Web Browser 0.9.6.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.pdb
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.4\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe.config
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.4\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe.manifest
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.4\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.application
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.4\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.4\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.pdb
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.4\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.4\Jaguar Web Browser\bin\Debug\EO.Base.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.4\Jaguar Web Browser\bin\Debug\EO.WebBrowser.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.4\Jaguar Web Browser\bin\Debug\EO.WebEngine.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.4\Jaguar Web Browser\bin\Debug\FastColoredTextBox.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.4\Jaguar Web Browser\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.4\Jaguar Web Browser\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.4\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.4\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SearchWord.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.4\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoSideMenu.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.4\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SideMenu.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.4\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.CodeEditor.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.4\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.NewFileDialog.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.4\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoForm.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.4\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.MainForm.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.4\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.4\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.4\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.exe.manifest
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.4\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.application
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.4\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.exe
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.4\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.4\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.pdb
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.4\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.InsertDialog.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.4\Jaguar Web Browser\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.4\Jaguar Web Browser\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.4\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.4\Jaguar Web Browser\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.4\Jaguar Web Browser\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.5\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe.config
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.5\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe.manifest
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.5\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.application
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.5\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.5\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.pdb
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.5\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.5\Jaguar Web Browser\bin\Debug\EO.Base.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.5\Jaguar Web Browser\bin\Debug\EO.WebBrowser.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.5\Jaguar Web Browser\bin\Debug\EO.WebEngine.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.5\Jaguar Web Browser\bin\Debug\FastColoredTextBox.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.5\Jaguar Web Browser\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.5\Jaguar Web Browser\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.5\Jaguar Web Browser\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.5\Jaguar Web Browser\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.5\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.5\Jaguar Web Browser\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.5\Jaguar Web Browser\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.5\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.5\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SearchWord.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.5\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoSideMenu.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.5\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SideMenu.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.5\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.CodeEditor.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.5\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.InsertDialog.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.5\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.NewFileDialog.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.5\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoForm.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.5\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.MainForm.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.5\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.5\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.5\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.exe.manifest
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.5\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.application
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.5\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.exe
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.5\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.5\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.pdb
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.6.5\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.CodeInspector.resources
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.6.5x\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe.config
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.6.5x\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe.manifest
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.6.5x\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.application
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.6.5x\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.6.5x\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.pdb
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.6.5x\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.xml
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.6.5x\Jaguar Web Browser\bin\Debug\EO.Base.dll
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.6.5x\Jaguar Web Browser\bin\Debug\EO.WebBrowser.dll
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.6.5x\Jaguar Web Browser\bin\Debug\EO.WebEngine.dll
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.6.5x\Jaguar Web Browser\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.6.5x\Jaguar Web Browser\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.6.5x\Jaguar Web Browser\bin\Debug\Interop.WMPLib.dll
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.6.5x\Jaguar Web Browser\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.6.5x\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbprojResolveAssemblyReference.cache
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.6.5x\Jaguar Web Browser\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.6.5x\Jaguar Web Browser\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.6.5x\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbproj.ResolveComReference.cache
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.6.5x\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.CodeInspector.resources
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.6.5x\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SearchWord.resources
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.6.5x\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoSideMenu.resources
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.6.5x\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SideMenu.resources
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.6.5x\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.CodeEditor.resources
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.6.5x\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.InsertDialog.resources
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.6.5x\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.NewFileDialog.resources
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.6.5x\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoForm.resources
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.6.5x\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.MainForm.resources
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.6.5x\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.6.5x\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbproj.GenerateResource.Cache
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.6.5x\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.exe.manifest
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.6.5x\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.application
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.6.5x\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.exe
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.6.5x\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.xml
+C:\Users\didko\Documents\Visual Studio 2010\Projects\Jaguar Web Browser 0.9.6.5x\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.pdb
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.0\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe.config
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.0\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe.manifest
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.0\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.application
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.0\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.0\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.pdb
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.0\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.0\Jaguar Web Browser\bin\Debug\EO.Base.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.0\Jaguar Web Browser\bin\Debug\EO.WebBrowser.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.0\Jaguar Web Browser\bin\Debug\EO.WebEngine.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.0\Jaguar Web Browser\bin\Debug\FastColoredTextBox.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.0\Jaguar Web Browser\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.0\Jaguar Web Browser\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.0\Jaguar Web Browser\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.0\Jaguar Web Browser\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.0\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.0\Jaguar Web Browser\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.0\Jaguar Web Browser\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.0\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.0\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.CodeInspector.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.0\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SearchWord.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.0\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoSideMenu.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.0\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SideMenu.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.0\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.CodeEditor.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.0\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.InsertDialog.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.0\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.NewFileDialog.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.0\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoForm.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.0\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.MainForm.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.0\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.0\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.0\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.exe.manifest
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.0\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.application
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.0\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.exe
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.0\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.0\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.pdb
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.0\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.FindDialog.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.2\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe.config
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.2\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe.manifest
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.2\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.application
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.2\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.2\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.pdb
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.2\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.2\Jaguar Web Browser\bin\Debug\EO.Base.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.2\Jaguar Web Browser\bin\Debug\EO.WebBrowser.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.2\Jaguar Web Browser\bin\Debug\EO.WebEngine.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.2\Jaguar Web Browser\bin\Debug\FastColoredTextBox.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.2\Jaguar Web Browser\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.2\Jaguar Web Browser\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.2\Jaguar Web Browser\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.2\Jaguar Web Browser\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.2\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.2\Jaguar Web Browser\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.2\Jaguar Web Browser\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.2\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.2\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.CodeInspector.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.2\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SearchWord.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.2\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoSideMenu.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.2\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SideMenu.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.2\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.CodeEditor.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.2\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.FindDialog.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.2\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.InsertDialog.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.2\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.NewFileDialog.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.2\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoForm.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.2\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.MainForm.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.2\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.2\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.2\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.exe.manifest
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.2\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.application
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.2\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.exe
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.2\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.2\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.pdb
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.4\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe.config
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.4\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe.manifest
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.4\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.application
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.4\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.4\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.pdb
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.4\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.4\Jaguar Web Browser\bin\Debug\EO.Base.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.4\Jaguar Web Browser\bin\Debug\EO.WebBrowser.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.4\Jaguar Web Browser\bin\Debug\EO.WebEngine.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.4\Jaguar Web Browser\bin\Debug\FastColoredTextBox.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.4\Jaguar Web Browser\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.4\Jaguar Web Browser\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.4\Jaguar Web Browser\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.4\Jaguar Web Browser\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.4\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.4\Jaguar Web Browser\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.4\Jaguar Web Browser\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.4\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.4\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.CodeInspector.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.4\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SearchWord.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.4\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoSideMenu.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.4\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SideMenu.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.4\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.CodeEditor.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.4\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.FindDialog.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.4\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.InsertDialog.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.4\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.NewFileDialog.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.4\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoForm.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.4\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.MainForm.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.4\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.4\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.4\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.exe.manifest
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.4\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.application
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.4\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.exe
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.4\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.4\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.pdb
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.4\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.MHPBookmark.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe.config
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe.manifest
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.application
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.pdb
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\EO.Base.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\EO.WebBrowser.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\EO.WebEngine.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\FastColoredTextBox.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.CodeInspector.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.MHPBookmark.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SearchWord.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoSideMenu.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SideMenu.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.CodeEditor.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.FindDialog.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.InsertDialog.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.NewFileDialog.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoForm.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.MainForm.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.exe.manifest
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.application
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.exe
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.xml
+C:\Users\Admin\Desktop\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.pdb
+D:\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbprojResolveAssemblyReference.cache
+D:\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Interop.WMPLib.dll
+D:\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbproj.ResolveComReference.cache
+D:\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.CodeInspector.resources
+D:\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.MHPBookmark.resources
+D:\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SearchWord.resources
+D:\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoSideMenu.resources
+D:\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SideMenu.resources
+D:\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.CodeEditor.resources
+D:\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.FindDialog.resources
+D:\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.InsertDialog.resources
+D:\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.NewFileDialog.resources
+D:\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoForm.resources
+D:\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.MainForm.resources
+D:\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbproj.GenerateResource.Cache
+D:\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.exe
+D:\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.xml
+D:\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.pdb
+D:\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe.config
+D:\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe.manifest
+D:\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.application
+D:\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe
+D:\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.pdb
+D:\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.xml
+D:\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\EO.Base.dll
+D:\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\EO.WebBrowser.dll
+D:\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\EO.WebEngine.dll
+D:\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\FastColoredTextBox.dll
+D:\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\Interop.WMPLib.dll
+D:\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\AxInterop.WMPLib.dll
+D:\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.exe.manifest
+D:\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.application
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Interop.WMPLib.dll
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbproj.ResolveComReference.cache
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.CodeInspector.resources
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.MHPBookmark.resources
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SearchWord.resources
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoSideMenu.resources
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SideMenu.resources
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.CodeEditor.resources
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.FindDialog.resources
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.InsertDialog.resources
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.NewFileDialog.resources
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoForm.resources
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.MainForm.resources
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbproj.GenerateResource.Cache
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbproj.CoreCompileInputs.cache
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.exe
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.xml
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.pdb
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe.config
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe.manifest
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.application
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.pdb
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.xml
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\EO.Base.dll
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\EO.WebBrowser.dll
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\EO.WebEngine.dll
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\VIBlend.WinForms.Controls.dll
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\VIBlend.WinForms.Utilities.dll
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\VIBlend.WinForms.Controls.pdb
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\VIBlend.WinForms.Controls.xml
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\VIBlend.WinForms.Controls.dll.config
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\VIBlend.WinForms.Utilities.pdb
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\VIBlend.WinForms.Utilities.xml
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\VIBlend.WinForms.Utilities.dll.config
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\Interop.WMPLib.dll
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\AxInterop.WMPLib.dll
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.exe.manifest
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.application
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbprojAssemblyReference.cache
+E:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbproj.CopyComplete
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe.config
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe.manifest
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.application
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.exe
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.pdb
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\Jaguar Web Browser.xml
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\EO.Base.dll
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\EO.WebBrowser.dll
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\EO.WebEngine.dll
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\VIBlend.WinForms.Controls.dll
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\VIBlend.WinForms.Utilities.dll
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\VIBlend.WinForms.Controls.pdb
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\VIBlend.WinForms.Controls.xml
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\VIBlend.WinForms.Controls.dll.config
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\VIBlend.WinForms.Utilities.pdb
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\VIBlend.WinForms.Utilities.xml
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\VIBlend.WinForms.Utilities.dll.config
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\Interop.WMPLib.dll
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\bin\Debug\AxInterop.WMPLib.dll
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbprojAssemblyReference.cache
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Interop.WMPLib.dll
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbproj.ResolveComReference.cache
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.CodeInspector.resources
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.MHPBookmark.resources
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SearchWord.resources
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoSideMenu.resources
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.SideMenu.resources
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.CodeEditor.resources
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.FindDialog.resources
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.InsertDialog.resources
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.NewFileDialog.resources
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.IncognitoForm.resources
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.MainForm.resources
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbproj.GenerateResource.cache
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbproj.CoreCompileInputs.cache
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.exe.manifest
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.application
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.vbproj.CopyComplete
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.exe
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.xml
+D:\Programming\JAGUAR\JAGUAR Web Browser\Jaguar Web Browser 0.9.7.3\Jaguar Web Browser\obj\x86\Debug\Jaguar Web Browser.pdb

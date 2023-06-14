@@ -1,0 +1,810 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{364BCDA3-849D-4311-9539-A05344F32DAB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>Jaguar Web Browser</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\MSD\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <SupportUrl>http://jaguarbrowser.wixsite.com/jaguar/contact</SupportUrl>
+    <ErrorReportUrl>http://jaguarbrowser.wixsite.com/jaguar/contact</ErrorReportUrl>
+    <ProductName>Jaguar Web Browser</ProductName>
+    <PublisherName>JB Team</PublisherName>
+    <SuiteName>Jaguar</SuiteName>
+    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationVersion>0.9.7.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Jaguar Web Browser.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Jaguar Web Browser.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\Jaguar_Logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>F194EF8764770ABEE56745F6D299563039A12A7B</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Jaguar Web Browser_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EO.Base">
+      <HintPath>DLLs\EO.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="EO.Pdf.Wpf">
+      <HintPath>C:\Program Files (x86)\Essential Objects\EO.Total 2018\EO.Pdf.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="EO.WebBrowser">
+      <HintPath>DLLs\EO.WebBrowser.dll</HintPath>
+    </Reference>
+    <Reference Include="EO.WebEngine">
+      <HintPath>DLLs\EO.WebEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="FastColoredTextBox">
+      <HintPath>D:\Programming\Visual Basic 2010\AddOnLybraries\Pavel Torgashov\FastColoredTextBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="VIBlend.WinForms.Controls, Version=10.1.0.0, Culture=neutral, PublicKeyToken=6feea38fef5ea0cf">
+      <HintPath>C:\Program Files (x86)\VIBlend\Windows Forms Controls v.10.1.0.0\VIBlend.WinForms.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="VIBlend.WinForms.Utilities, Version=10.1.0.0, Culture=neutral, PublicKeyToken=970a5af59bc48043">
+      <HintPath>C:\Program Files (x86)\VIBlend\Windows Forms Controls v.10.1.0.0\VIBlend.WinForms.Utilities.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes and Controls\Controls\BackwardButton.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes and Controls\Controls\BookmarkButton.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes and Controls\Controls\BookmarksBar.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes and Controls\Controls\FlatPanel.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes and Controls\Controls\FlatRoundedPanel.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes and Controls\Controls\CodeInspector.Designer.vb">
+      <DependentUpon>CodeInspector.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Classes and Controls\Controls\CodeInspector.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classes and Controls\Controls\ForwardButton.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes and Controls\Controls\HomeButton.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes and Controls\Controls\MenuButton.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes and Controls\Controls\MHPBookmark.Designer.vb">
+      <DependentUpon>MHPBookmark.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Classes and Controls\Controls\MHPBookmark.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Classes and Controls\Controls\RefreshButton.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes and Controls\Controls\SearchButton.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes and Controls\Controls\SearchField.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes and Controls\Controls\SearchWord.Designer.vb">
+      <DependentUpon>SearchWord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Classes and Controls\Controls\SearchWord.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Classes and Controls\Controls\StopButton.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes and Controls\Controls\IncognitoTabControl.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes and Controls\Controls\TabControl.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes and Controls\Controls\VoiceInputButton.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes and Controls\MainControls\CloseButton.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes and Controls\MainControls\FormTitle.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes and Controls\MainControls\MinimizeButton.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes and Controls\GlobalVariables.vb" />
+    <Compile Include="Classes and Controls\SideMenu\IncognitoSideMenu.designer.vb">
+      <DependentUpon>IncognitoSideMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Classes and Controls\SideMenu\IncognitoSideMenu.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Classes and Controls\SideMenu\SideMenu.designer.vb">
+      <DependentUpon>SideMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Classes and Controls\SideMenu\SideMenu.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Classes and Controls\Theme.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes and Controls\WebDevTool Components\CodeEditor.Designer.vb">
+      <DependentUpon>CodeEditor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Classes and Controls\WebDevTool Components\CodeEditor.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Classes and Controls\WebDevTool Components\FindDialog.Designer.vb">
+      <DependentUpon>FindDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Classes and Controls\WebDevTool Components\FindDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classes and Controls\WebDevTool Components\InsertDialog.Designer.vb">
+      <DependentUpon>InsertDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Classes and Controls\WebDevTool Components\InsertDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classes and Controls\WebDevTool Components\NewFileDialog.Designer.vb">
+      <DependentUpon>NewFileDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Classes and Controls\WebDevTool Components\NewFileDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IncognitoForm.Designer.vb">
+      <DependentUpon>IncognitoForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IncognitoForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.vb">
+      <DependentUpon>MainForm.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Settings.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Classes and Controls\Controls\CodeInspector.resx">
+      <DependentUpon>CodeInspector.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Classes and Controls\Controls\MHPBookmark.resx">
+      <DependentUpon>MHPBookmark.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Classes and Controls\Controls\SearchWord.resx">
+      <DependentUpon>SearchWord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Classes and Controls\SideMenu\IncognitoSideMenu.resx">
+      <DependentUpon>IncognitoSideMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Classes and Controls\SideMenu\SideMenu.resx">
+      <DependentUpon>SideMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Classes and Controls\WebDevTool Components\CodeEditor.resx">
+      <DependentUpon>CodeEditor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Classes and Controls\WebDevTool Components\FindDialog.resx">
+      <DependentUpon>FindDialog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Classes and Controls\WebDevTool Components\InsertDialog.resx">
+      <DependentUpon>InsertDialog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Classes and Controls\WebDevTool Components\NewFileDialog.resx">
+      <DependentUpon>NewFileDialog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IncognitoForm.resx">
+      <DependentUpon>IncognitoForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Jaguar Web Browser_TemporaryKey.pfx" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\DataSources\WindowsApplication1.My.MySettings.datasource" />
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add Tab-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bookmarks.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BT_printer-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_stop-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_stop-512-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close-512-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Customize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Developers.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Downloads.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fullscreen Exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fullscreen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\History.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home-512-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-search-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-search-512-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Incognito Window.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left_arrow-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left_arrow-512-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Maximize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Maximize-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Menu-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Menu-ico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Microphone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Microphone-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Minimize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Minimize-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\New Window.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Normal-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Print.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh-512-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\right_arrow-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\right_arrow-512-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save Page.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search Word.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star-512-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Zoom-in.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\google.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wikipedia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yahoo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\youtube.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Msg.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jaguar Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jaguar_Logo.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application-code-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\25.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add Tab.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backward.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Character.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close Panel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CSS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cut.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Find and Replace.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Find.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Form.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Forward.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HTML5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hyperlink.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Insert Tag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Insert.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jaguar-PNG-Clipart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JavaScript.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Maximize 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\New File.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Normal 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Open Panel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Open.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Paste.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PHP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Projext Explorer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Redo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Select All.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SWF.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Table.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Undo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Video.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Warning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JWDT_Menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JWDT_Print.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JWDT_Search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bulgarian.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\English.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="Jaguar Web Browser.pdb">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+    <PublishFile Include="Jaguar Web Browser.xml">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.VisualBasic.PowerPacks.Vs">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.VisualBasic.PowerPacks.Vs.xml">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+    <PublishFile Include="VIBlend.WinForms.Controls">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="VIBlend.WinForms.Utilities">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EN.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EN 2 .png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EN 3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG 3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rotate.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Path.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back_25px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Forward_25px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Expand Arrow_25px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Collapse Arrow_25px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Plus Math_25px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image File_25px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Video _25px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bell_25px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Move_25px.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
